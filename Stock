@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Courses on Stocks And Trading</title>
+  </head>
+  <body>
+    <h1> Stocks </h1>
+    <h4> Begginner's Course on Stocks </h4>
+    <p> This course is on Stocks for beginners. It is a self paced course with a duration of 18 months of deadline.</p>
+    <br />
+    <h1> Stocks </h1>
+    <h4> Advanced Course on Stocks </h4>
+    <p> This course is on Stocks for Intermediates and Advanced. It is a self paced course with a duration of 20 months of deadline.</p>
+  </body>
+</html>
